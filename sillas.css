@@ -1,0 +1,41 @@
+.arriba {
+	display: flex;
+	justify-content:center;
+	margin: 5px;
+
+}
+
+
+
+.sillas img {
+	margin: 5px;
+}
+
+.abajo {
+	display: flex;
+	justify-content:center;
+	margin: 5px;
+	transform: rotate(180deg);
+}
+
+.izquierda {
+	position: relative;
+	width: 120px;
+	height:114px;
+	top:80px;
+	transform: rotate(270deg);
+	margin: 5px;
+	
+	
+}
+
+.derecha {
+	position: relative;
+	width: 120px;
+	height:114px;
+	top:80px;
+	transform: rotate(90deg);
+	margin: 5px;
+	
+}
+
